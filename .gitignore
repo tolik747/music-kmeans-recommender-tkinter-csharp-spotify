@@ -1,3 +1,6 @@
 *.pyz
 *.pkg
 /build/
+*.pyz
+*.pkg
+/build/
