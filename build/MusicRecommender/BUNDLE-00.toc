@@ -1,0 +1,1 @@
+([('MusicRecommender', '/Users/mac/c#/k/dist/MusicRecommender', 'EXECUTABLE')],)
